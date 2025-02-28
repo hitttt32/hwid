@@ -3389,7 +3389,7 @@
         "dwInputSystem": "0x387E0"
     },
     "matchmaking_dll": {
-        "dwGameTypes": "0x1A41B0",
+        "dwGameTypes": "0x1A3190",
         "dwGameTypes_mapName": "0x120"
     },
     "soundsystem_dll": {
